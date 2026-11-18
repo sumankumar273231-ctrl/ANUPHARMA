@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<h2>AMIT WEBA</h2>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -27,7 +27,7 @@ body {
 
 .announcement {
     background: linear-gradient(100deg, #124da0, #087b59);
-    color: red;
+    color: white;
     text-align: center;
     padding: 14px 12px;
     font-size: 15px;
@@ -46,7 +46,7 @@ body {
 /* HEADER */
 
 .header {
-    background: blue;
+    background: white;
     padding: 18px 5%;
     display: flex;
     align-items: center;
@@ -63,7 +63,7 @@ body {
 
 .logo {
     background: linear-gradient(135deg, #0875d1, #07865c);
-    color: yellow;
+    color: white;
     width: 57px;
     height: 57px;
     border-radius: 14px;
@@ -106,7 +106,7 @@ body {
 }
 
 .admin-btn {
-    background: green;
+    background: white;
     color: #1260bd;
     border: 2px solid #1260bd;
 }
