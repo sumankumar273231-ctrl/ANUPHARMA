@@ -27,7 +27,7 @@ body {
 
 .announcement {
     background: linear-gradient(100deg, #124da0, #087b59);
-    color: white;
+    color: red;
     text-align: center;
     padding: 14px 12px;
     font-size: 15px;
@@ -46,7 +46,7 @@ body {
 /* HEADER */
 
 .header {
-    background: white;
+    background: blue;
     padding: 18px 5%;
     display: flex;
     align-items: center;
@@ -63,7 +63,7 @@ body {
 
 .logo {
     background: linear-gradient(135deg, #0875d1, #07865c);
-    color: white;
+    color: yellow;
     width: 57px;
     height: 57px;
     border-radius: 14px;
@@ -106,7 +106,7 @@ body {
 }
 
 .admin-btn {
-    background: white;
+    background: green;
     color: #1260bd;
     border: 2px solid #1260bd;
 }
@@ -499,9 +499,9 @@ footer p {
         </div>
 
         <div class="feature-card">
-            <div class="icon">📝</div>
-            <h3>Question Bank</h3>
-            <p>Important questions and examination preparation.</p>
+            <div class="icon">💘</div>
+            <h3>SAMEER 💝 RESHMA</h3>
+            <pHOW DO IMPRESS A GIRL NEW COURSE🤣.</p>
         </div>
 
     </div>
@@ -515,6 +515,7 @@ footer p {
     <p>Your Pharmacy Learning Platform</p>
     <p>Learn • Explore • Grow</p>
     <p>© 2026 ODPHARMA. All Rights Reserved.</p>
+     <p>ABOUT ME</p> 
 </footer>
 
 </body>
