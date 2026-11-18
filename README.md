@@ -501,7 +501,7 @@ footer p {
         <div class="feature-card">
             <div class="icon">💘</div>
             <h3>SAMEER 💝 RESHMA</h3>
-            <p HOW DO IMPRESS A GIRL NEW COURSE🤣. </p>
+            <p>HOW DO IMPRESS A GIRL NEW COURSE🤣.</p>
         </div>
 
     </div>
