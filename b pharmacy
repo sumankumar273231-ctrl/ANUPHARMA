@@ -1,0 +1,9 @@
+<div class="card searchable">
+    <div class="icon">🎓</div>
+    <h3>B.Pharmacy</h3>
+    <p>Complete B.Pharmacy study materials and notes.</p>
+
+    <a href="b-pharmacy/index.html" class="btn">
+        Explore B.Pharmacy →
+    </a>
+</div>
